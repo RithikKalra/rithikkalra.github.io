@@ -25,6 +25,14 @@
 
 ---
 
+## Technical Skills
+
+- **Programming Languages:** Java, C++, SQL, Python, JavaScript
+- **Technologies:** Cloud Computing, FullStack, GCP, Docker, Kubernetes, Express, React, VMware
+- **Methodologies:** Agile software strategies including SCRUM, CI/CD, Git, DevOps
+
+---
+
 ## Work Experience
 
 ### Northern Digital Inc (NDI)
@@ -73,12 +81,3 @@
 
 - Developed a product with demand in the current market and determined its financial feasibility.
 - Created a diversified array of financial documents including qualitative and quantitative analysis.
-
----
-
-## Technical Skills
-
-- **Programming Languages:** Java, C++, SQL, Python, JavaScript
-- **Technologies:** Cloud Computing, FullStack, GCP, Docker, Kubernetes, Express, React, VMware
-- **Methodologies:** Agile software strategies including SCRUM, CI/CD, Git, DevOps
-
