@@ -28,7 +28,6 @@
 ### Northern Digital Inc (NDI)
 **Software Test Developer Intern**  
 *May 2022 - Aug 2023*  
-*Sep 2015 - Jun 2019*
 
 - Developed test fixtures and modules using Python and C++ for the automation of software validation and verification. Efforts resulted in safe and automated alpha and beta testing of experimental technologies.
 - Used Atlassian workflow technologies (Jira, Bitbucket, Bamboo) to perform code reviews, fix bugs, and communicate issues between multiple departments.
